@@ -12,3 +12,4 @@
 ## 사용법 동영상 링크
 1. [Editor 기본 사용법](https://youtu.be/418EMm-noso) <br>
 2. [Viewer 조작 및 데이터 바인딩](https://youtu.be/ydLkaTRWnns) <br>
+3. [테이블/차트 엘리먼트에 대한 데이터 바인딩](https://youtu.be/04PEMD1CE9I) <br>
