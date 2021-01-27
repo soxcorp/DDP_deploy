@@ -5,7 +5,7 @@
 3. DDP 샘플
 
 -----------------------------------
-[DrilldownPlay Viewer 이동](http://naon.soxcorp.co.kr) <br>
+[DrilldownPlay Viewer 이동](http://naon.soxcorp.co.kr/DrilldownPlay) <br>
 [DrilldownPlay Node-red 이동](http://naon.soxcorp.co.kr:11103)
 
 -----------------------------------
