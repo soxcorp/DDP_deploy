@@ -10,4 +10,4 @@
 
 -----------------------------------
 ## 사용법 동영상 링크
-1. [Editor 기본 사용법] (https://youtu.be/418EMm-noso) <br>
+1.[Editor 기본 사용법](https://youtu.be/418EMm-noso) <br>
