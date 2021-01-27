@@ -1,6 +1,6 @@
 # DDP deploy
 
-1. DDP Editor 배포본 
+1. DDP Editor 설치 파일 
 2. DDP 매뉴얼
 3. DDP 샘플
 <br><br>
@@ -16,8 +16,7 @@
 2. [Viewer 조작 및 데이터 바인딩](https://youtu.be/ydLkaTRWnns) <br>
 3. [테이블/차트 엘리먼트에 대한 데이터 바인딩](https://youtu.be/04PEMD1CE9I) <br>
 
-<br><br>
------------------------------------
+
 ## 사이트 이동
 [DrilldownPlay Viewer 이동](http://naon.soxcorp.co.kr/DrilldownPlay/#/main) <br>
 [DrilldownPlay Node-red 이동](http://naon.soxcorp.co.kr:11103)
