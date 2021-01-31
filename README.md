@@ -18,6 +18,12 @@
 1. [Editor 기본 사용법](https://youtu.be/418EMm-noso) <br>
 2. [Viewer 조작 및 데이터 바인딩](https://youtu.be/ydLkaTRWnns) <br>
 3. [테이블/차트 엘리먼트에 대한 데이터 바인딩](https://youtu.be/04PEMD1CE9I) <br>
+<br><br>
+
+## 사용법 메뉴얼 링크
+1. [엘리먼트와 데이터 연동 방법과 형식](./manual/DDP엘리먼트 데이터 형식_202101.pdf) <br>
+2. [외부 데이터베이스 연동, API 연동 방법](./manual/DDP_외부데이터 요청방법_202101.pdf) <br>
+<br><br>
 
 
 ## 사이트 이동
