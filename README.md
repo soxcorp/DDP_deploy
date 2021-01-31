@@ -21,8 +21,8 @@
 <br><br>
 
 ## 사용법 메뉴얼 링크
-1. [엘리먼트와 데이터 연동 방법과 형식](./manual/DDP엘리먼트 데이터 형식_202101.pdf) <br>
-2. [외부 데이터베이스 연동, API 연동 방법](./manual/DDP_외부데이터 요청방법_202101.pdf) <br>
+1. [엘리먼트와 데이터 연동 방법과 형식](https://github.com/soxcorp/DDP_deploy/blob/main/manual/DDP%EC%97%98%EB%A6%AC%EB%A8%BC%ED%8A%B8%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%98%95%EC%8B%9D_202101.pdf) <br>
+2. [외부 데이터베이스 연동, API 연동 방법](https://github.com/soxcorp/DDP_deploy/blob/main/manual/DDP_%EC%99%B8%EB%B6%80%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%9A%94%EC%B2%AD%EB%B0%A9%EB%B2%95_202101.pdf) <br>
 <br><br>
 
 
