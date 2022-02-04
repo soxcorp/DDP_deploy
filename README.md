@@ -27,7 +27,7 @@
 
 
 ## 사이트 이동
-[DrilldownPlay Viewer 이동](http://naon.soxcorp.co.kr/DrilldownPlay/#/main) <br>
-[DrilldownPlay Node-red 이동](http://naon.soxcorp.co.kr:11103)
+[DrilldownPlay Viewer 이동](http://play.drilldown.info/DrilldownPlay/#/main) <br>
+
 
 
