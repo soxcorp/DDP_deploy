@@ -1,3 +1,6 @@
+# [DDP 소개자료](https://github.com/soxcorp/DDP_deploy/blob/main/manual/DDP%EC%86%8C%EA%B0%9C_202201.pdf) 
+
+-----------------------------------
 # DDP deploy
 
 1. DDP Editor 설치 파일 
