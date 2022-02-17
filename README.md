@@ -1,4 +1,10 @@
+# DDP 소개
+
+[![DDP 소개](http://img.youtube.com/vi/TWEfWHQv4hA/0.jpg)](https://youtu.be/TWEfWHQv4hA?t=0s)
+
+
 # [DDP 소개자료](https://github.com/soxcorp/DDP_deploy/blob/main/manual/DDP%EC%86%8C%EA%B0%9C_202201.pdf) 
+
 
 -----------------------------------
 # DDP deploy
